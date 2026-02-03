@@ -1,0 +1,12 @@
+curl -X GET "http://localhost:9090/api/posts"
+db.posts.find()
+)
+   }
+     "coverUrl": "https://media.giphy.com/media/uscuTAPrWqmqI/giphy.gif"
+     "content":  "this is a test post",
+     "tags": "words",
+     "title": "first post",
+   {
+db.posts.insert(
+show dbs
+show dbs 

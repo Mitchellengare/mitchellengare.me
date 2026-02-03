@@ -1,0 +1,4 @@
+/opt/anaconda3
+/opt/anaconda3/envs/cs70
+/opt/anaconda3/envs/notebook
+/opt/anaconda3/envs/ai_agents

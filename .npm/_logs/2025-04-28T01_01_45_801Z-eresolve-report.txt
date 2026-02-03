@@ -1,0 +1,18 @@
+'Log files:
+/Users/mitchellengare/.npm/_logs/2025-04-28T01_01_45_801Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: starterpack-mitchellengare@1.0.0
+Found: eslint@9.25.1
+node_modules/eslint
+  dev eslint@"^9.25.1" from the root project
+
+Could not resolve dependency:
+peer eslint@"^7.32.0 || ^8.2.0" from eslint-config-airbnb@19.0.4
+node_modules/eslint-config-airbnb
+  dev eslint-config-airbnb@"19.0.4" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
